@@ -1,4 +1,3 @@
-# Event-Management-Project
 # Eventify Interface
 ![Screenshot 2024-09-06 211139](https://github.com/user-attachments/assets/fd74d2cd-0cfb-4155-b45c-700a99c2ad74)
 ![Screenshot 2024-09-06 211253](https://github.com/user-attachments/assets/88fe873c-fefe-4068-997f-1a0781cc29a9)
